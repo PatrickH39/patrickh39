@@ -1,4 +1,4 @@
-### Heyo, I'm <a href="https://patrickh.ca/" target="_blank">Patrick Huynh</a>
+### Heyo, I'm <a target="_blank" href="https://patrickh.ca/">Patrick Huynh</a>
 I'm a high school student in 🌧️ Vancouver, BC. My favourite foods are rice, ramen, and 雪菜肉絲炆米. I can speak and write in English, Cantonese (Chinese), and a bit of French.
 
 [![LinkedIn](https://img.shields.io/badge/-@patrickh39-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/patrickh39/)](https://www.linkedin.com/in/patrickh39)

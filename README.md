@@ -9,6 +9,6 @@ I'm a high school student in 🌧️ Vancouver, BC. My favourite foods are rice,
 - 🔭 I’m currently working on **[WeaponAI](https://github.com/patrickh39/WeaponAI)**
 - 📚 I’m currently learning **Python, HTML, and CSS**
 - ⛰️ I like mountains and have always wanted to go to Banff
-- 🎮 I like to play **Minecraft and League of Legends**
+- 🎮 I like to play **Minecraft, Val, or League**
 - 🌐 Check out my website at: **[patrickh.ca](https://patrickh.ca)**
 - 💬 Get in touch with me at **[patrick@patrickh.ca](mailto:patrick@patrickh.ca)**

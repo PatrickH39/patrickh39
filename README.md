@@ -6,7 +6,7 @@ I'm a high school student in 🌧️ Vancouver, BC. My favourite foods are rice,
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=patrickh39&show_icons=true&count_private=true" alt="patrickh39" />
 
-- 🔭 I’m currently working on **[WeaponAI](https://github.com/patrickh39/WeaponAI)**
+- 🔭 I’m currently working on **nothing!**
 - 📚 I’m currently learning **Python, HTML, and CSS**
 - ⛰️ Almost all my desktop backgrounds are Banff
 - 🎮 I like to play **Minecraft, Val, or League**

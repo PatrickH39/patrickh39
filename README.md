@@ -8,7 +8,7 @@ I'm a high school student in 🌧️ Vancouver, BC. I like to play modded Minecr
 
 - 🔭 I’m currently working on **[DT Clubs Day](https://github.com/patrickh39/DT-Clubs-Day)**
 - 📚 I’m currently learning **Python, HTML, and CSS**
-- ⛰️ I like to hike when I can, then take a million photos.
+- ⛰️ I like to hike when I can, then take a million photos on my way there.
 - 🎮 I like to play **Minecraft, Val, or League**
 - 🌐 Check out my website at: **[patrickh.ca](https://patrickh.ca)**
 - 💬 Get in touch with me at **[patrick@patrickh.ca](mailto:patrick@patrickh.ca)**
